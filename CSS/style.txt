@@ -1,0 +1,20 @@
+    body{
+  display: block;
+  background: #fff;
+}
+header {
+  background-color: #380577;
+  color: MediumStateBlue;
+  text-align: center;
+font-family: Modern, Monotype Corsiva; }
+
+
+main {
+  background: coral;
+ }
+ 
+footer {
+  background: wheat;
+  padding: 2rem;
+  text-align: center;
+}
